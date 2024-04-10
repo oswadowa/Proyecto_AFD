@@ -16,5 +16,10 @@ namespace Proyecto_AFD_Fase_II
         {
             InitializeComponent();
         }
+
+        private void tabPage3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
