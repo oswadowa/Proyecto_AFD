@@ -1,0 +1,11 @@
+C:\Users\oswal\OneDrive\Documentos\Universidad\7. 5to Semestre\Lenguas\Proyecto_I_AFD\Proyecto_AFD\Proyecto AFD Fase II\Proyecto AFD Fase II\bin\Debug\Proyecto AFD Fase II.exe.config
+C:\Users\oswal\OneDrive\Documentos\Universidad\7. 5to Semestre\Lenguas\Proyecto_I_AFD\Proyecto_AFD\Proyecto AFD Fase II\Proyecto AFD Fase II\bin\Debug\Proyecto AFD Fase II.exe
+C:\Users\oswal\OneDrive\Documentos\Universidad\7. 5to Semestre\Lenguas\Proyecto_I_AFD\Proyecto_AFD\Proyecto AFD Fase II\Proyecto AFD Fase II\bin\Debug\Proyecto AFD Fase II.pdb
+C:\Users\oswal\OneDrive\Documentos\Universidad\7. 5to Semestre\Lenguas\Proyecto_I_AFD\Proyecto_AFD\Proyecto AFD Fase II\Proyecto AFD Fase II\obj\Debug\Proyecto AFD Fase II.csproj.AssemblyReference.cache
+C:\Users\oswal\OneDrive\Documentos\Universidad\7. 5to Semestre\Lenguas\Proyecto_I_AFD\Proyecto_AFD\Proyecto AFD Fase II\Proyecto AFD Fase II\obj\Debug\Proyecto AFD Fase II.csproj.SuggestedBindingRedirects.cache
+C:\Users\oswal\OneDrive\Documentos\Universidad\7. 5to Semestre\Lenguas\Proyecto_I_AFD\Proyecto_AFD\Proyecto AFD Fase II\Proyecto AFD Fase II\obj\Debug\Proyecto_AFD_Fase_II.Form1.resources
+C:\Users\oswal\OneDrive\Documentos\Universidad\7. 5to Semestre\Lenguas\Proyecto_I_AFD\Proyecto_AFD\Proyecto AFD Fase II\Proyecto AFD Fase II\obj\Debug\Proyecto_AFD_Fase_II.Properties.Resources.resources
+C:\Users\oswal\OneDrive\Documentos\Universidad\7. 5to Semestre\Lenguas\Proyecto_I_AFD\Proyecto_AFD\Proyecto AFD Fase II\Proyecto AFD Fase II\obj\Debug\Proyecto AFD Fase II.csproj.GenerateResource.cache
+C:\Users\oswal\OneDrive\Documentos\Universidad\7. 5to Semestre\Lenguas\Proyecto_I_AFD\Proyecto_AFD\Proyecto AFD Fase II\Proyecto AFD Fase II\obj\Debug\Proyecto AFD Fase II.csproj.CoreCompileInputs.cache
+C:\Users\oswal\OneDrive\Documentos\Universidad\7. 5to Semestre\Lenguas\Proyecto_I_AFD\Proyecto_AFD\Proyecto AFD Fase II\Proyecto AFD Fase II\obj\Debug\Proyecto AFD Fase II.exe
+C:\Users\oswal\OneDrive\Documentos\Universidad\7. 5to Semestre\Lenguas\Proyecto_I_AFD\Proyecto_AFD\Proyecto AFD Fase II\Proyecto AFD Fase II\obj\Debug\Proyecto AFD Fase II.pdb
