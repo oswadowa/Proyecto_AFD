@@ -41,13 +41,25 @@
             this.Recorrido = new System.Windows.Forms.TextBox();
             this.Cadena = new System.Windows.Forms.TextBox();
             this.button2 = new System.Windows.Forms.Button();
+            this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.VerificacionLabelAFN = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.button3 = new System.Windows.Forms.Button();
+            this.label9 = new System.Windows.Forms.Label();
+            this.label10 = new System.Windows.Forms.Label();
+            this.label11 = new System.Windows.Forms.Label();
+            this.AutomataFN = new System.Windows.Forms.TextBox();
+            this.CadenaFN = new System.Windows.Forms.TextBox();
+            this.button4 = new System.Windows.Forms.Button();
             this.AFD.SuspendLayout();
             this.tabPage1.SuspendLayout();
+            this.tabPage2.SuspendLayout();
             this.SuspendLayout();
             // 
             // AFD
             // 
             this.AFD.Controls.Add(this.tabPage1);
+            this.AFD.Controls.Add(this.tabPage2);
             this.AFD.Location = new System.Drawing.Point(12, 12);
             this.AFD.Name = "AFD";
             this.AFD.SelectedIndex = 0;
@@ -173,6 +185,104 @@
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click_1);
             // 
+            // tabPage2
+            // 
+            this.tabPage2.Controls.Add(this.VerificacionLabelAFN);
+            this.tabPage2.Controls.Add(this.label4);
+            this.tabPage2.Controls.Add(this.button3);
+            this.tabPage2.Controls.Add(this.label9);
+            this.tabPage2.Controls.Add(this.label10);
+            this.tabPage2.Controls.Add(this.label11);
+            this.tabPage2.Controls.Add(this.AutomataFN);
+            this.tabPage2.Controls.Add(this.CadenaFN);
+            this.tabPage2.Controls.Add(this.button4);
+            this.tabPage2.Location = new System.Drawing.Point(4, 22);
+            this.tabPage2.Name = "tabPage2";
+            this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage2.Size = new System.Drawing.Size(790, 268);
+            this.tabPage2.TabIndex = 1;
+            this.tabPage2.Text = "Autómatas AFN";
+            this.tabPage2.UseVisualStyleBackColor = true;
+            // 
+            // VerificacionLabelAFN
+            // 
+            this.VerificacionLabelAFN.AutoSize = true;
+            this.VerificacionLabelAFN.Location = new System.Drawing.Point(100, 124);
+            this.VerificacionLabelAFN.Name = "VerificacionLabelAFN";
+            this.VerificacionLabelAFN.Size = new System.Drawing.Size(10, 13);
+            this.VerificacionLabelAFN.TabIndex = 40;
+            this.VerificacionLabelAFN.Text = "-";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(35, 164);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(148, 13);
+            this.label4.TabIndex = 39;
+            this.label4.Text = "Ingrese Un Archivo De Texto:";
+            // 
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(48, 180);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(100, 23);
+            this.button3.TabIndex = 38;
+            this.button3.Text = "Ingresar Archivo";
+            this.button3.UseVisualStyleBackColor = true;
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Location = new System.Drawing.Point(321, 28);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(93, 13);
+            this.label9.TabIndex = 36;
+            this.label9.Text = "Archivo De Texto:";
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Location = new System.Drawing.Point(45, 124);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(48, 13);
+            this.label10.TabIndex = 35;
+            this.label10.Text = "Verificar:";
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Location = new System.Drawing.Point(35, 33);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(155, 13);
+            this.label11.TabIndex = 34;
+            this.label11.Text = "Ingrese Una Cadena De Texto:";
+            // 
+            // AutomataFN
+            // 
+            this.AutomataFN.Location = new System.Drawing.Point(248, 45);
+            this.AutomataFN.Multiline = true;
+            this.AutomataFN.Name = "AutomataFN";
+            this.AutomataFN.Size = new System.Drawing.Size(237, 195);
+            this.AutomataFN.TabIndex = 33;
+            // 
+            // CadenaFN
+            // 
+            this.CadenaFN.Location = new System.Drawing.Point(38, 51);
+            this.CadenaFN.Name = "CadenaFN";
+            this.CadenaFN.Size = new System.Drawing.Size(128, 20);
+            this.CadenaFN.TabIndex = 30;
+            // 
+            // button4
+            // 
+            this.button4.Location = new System.Drawing.Point(48, 77);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(109, 23);
+            this.button4.TabIndex = 31;
+            this.button4.Text = "Ingresar Cadena";
+            this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -180,10 +290,12 @@
             this.ClientSize = new System.Drawing.Size(832, 321);
             this.Controls.Add(this.AFD);
             this.Name = "Form1";
-            this.Text = "Proyecto 1";
+            this.Text = "Proyecto AFD - AFN";
             this.AFD.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.tabPage1.PerformLayout();
+            this.tabPage2.ResumeLayout(false);
+            this.tabPage2.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -203,6 +315,16 @@
         private System.Windows.Forms.TextBox Recorrido;
         private System.Windows.Forms.TextBox Cadena;
         private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.TabPage tabPage2;
+        private System.Windows.Forms.Label VerificacionLabelAFN;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.TextBox AutomataFN;
+        private System.Windows.Forms.TextBox CadenaFN;
+        private System.Windows.Forms.Button button4;
     }
 }
 
